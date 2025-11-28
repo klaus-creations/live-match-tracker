@@ -14,11 +14,8 @@ A real-time football score broadcasting system built with **Express.js** (Backen
 
 ## 📸 Demo & Screenshots
 
-### 🎥 Video Demo
-> *Watch the system in action: Admin triggering a goal -> User UI updating instantly.*
 
 ![Project Demo Video](./assets/demo-video.gif)
-*(Replace `demo-video.gif` with your actual video file or a link to Loom/YouTube)*
 
 ### 🖼️ Screenshots
 
